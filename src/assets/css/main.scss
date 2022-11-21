@@ -1,0 +1,6 @@
+$primary: #fff; // #6f71b6; rgb(127, 127, 127)
+$secondary: #9096d9;  // #454581; #9993d0
+$bg: linear-gradient(120grad, rgb(100, 57, 134), rgb(152, 174, 213)); // #212b36; // #4e5865; // #420b55;
+body {
+  background: $bg;
+}
